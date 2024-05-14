@@ -1,0 +1,15 @@
+{
+  "name": "smart-link-redirect",
+  "version": "1.0.0",
+  "description": "A Node.js app that generates a single link to redirect based on the device type.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ua-parser-js": "^0.7.31"
+  },
+  "author": "Ash Summers",
+  "license": "MIT"
+}
